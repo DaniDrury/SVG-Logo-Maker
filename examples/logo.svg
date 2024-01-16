@@ -1,5 +1,5 @@
 
     <svg xmlns="http://www.w3.org/2000/svg" version="1.1" width="300" height="200">
-      <rect x="75" y="25" width="150" height="150" fill="blue"/>
-      <text x="150" y="125" font-size="60" text-anchor="middle" fill="white">dnd</text>
+      <polygon points="150, 18 244, 182 56, 182" fill="#456789"/>
+      <text x="150" y="125" font-size="60" text-anchor="middle" fill="#ff0000">dnd</text>
     </svg>
